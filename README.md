@@ -36,6 +36,8 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 blob:https://gifcap.dev/8f3acb9f-af52-4291-a87f-a0defd7f684d
 https://imgur.com/a/GjnvEYa
 
+used readme.so to make md file
+
 ## License
 
 Copyright 2023 Seyi Akinwale
