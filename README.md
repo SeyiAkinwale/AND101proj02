@@ -20,13 +20,6 @@ The following REQUIRED features are completed:
 - [x] 🗒️ Debug and fix Print List activity
 - [x] 💯 Debug and fix Favorite Number activity
 
-The following STRETCH features are implemented:
-
-- [ ] TODO
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
@@ -35,8 +28,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='https://i.imgur.com/muOBeNv.gif' />
 
 GIF 
-
-
+![muOBeNv](https://github.com/SeyiAkinwale/AND101proj02/assets/72584469/d7b9bb20-2da4-461b-b951-5fb04deabcaa)
 
 ## Notes
 
